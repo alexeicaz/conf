@@ -100,6 +100,7 @@
     curl
     wget
     go
+    verilator
     kotlin 
     kotlin-language-server
     verilog
