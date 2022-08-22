@@ -100,6 +100,9 @@
     curl
     wget
     go
+    kotlin 
+    kotlin-language-server
+    verilog
     gnome.gnome-boxes
     git
     ghc
